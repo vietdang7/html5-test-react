@@ -1,0 +1,8 @@
+/* page-title */
+.page-title h1 {
+  font-size: 1.5em;
+  color: #757575;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}

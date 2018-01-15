@@ -1,0 +1,14 @@
+/* top-form-container */
+.top-form-container {
+  background-color: white;
+  height: 72px;
+  padding: 16px;
+}
+/* top-form */
+.top-form input{
+  height: 40px;
+  font-size: 1em;
+  padding: 16px;
+  margin-right: 10px;
+
+}

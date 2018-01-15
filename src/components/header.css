@@ -1,0 +1,14 @@
+/* ::: Navbar setting ::: */
+
+.navbar {
+  display: flex;
+  align-items: center;
+  padding: 32px;
+  background-color: #adb5bd;
+}
+.brand-text {
+  font-size: 1.5em;
+  margin-left: 5px;
+  letter-spacing: 1px;
+  color: white;
+}

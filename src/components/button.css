@@ -1,0 +1,9 @@
+.button-normal {
+  float: right;
+  text-decoration: none;
+  text-align: center;
+  height: 40px;
+  color: #757575;
+  background-color: #EDEDED;
+  padding: 13px;
+}
