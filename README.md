@@ -91,6 +91,7 @@ class App extends Component {
 - You need to have a code editor like **Atom** or **Sublime**
 - You have lasest version of Node
 - You need to install Create-React-App for build environment, please follow this [guideline](https://github.com/facebookincubator/create-react-app)
+- Install Font-Awesome: `npm install font-awesome` and import into your component: `import 'font-awesome/css/font-awesome.min.css'`
 
 ### Installation
 - Clone this project (Using `git`command: `https://github.com/vietdang7/html5-test-react.git` or through your GitDesktop application)
